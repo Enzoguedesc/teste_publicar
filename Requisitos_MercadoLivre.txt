@@ -1,0 +1,29 @@
+Funcionais 
+
+- Login do usuário 
+- Adicionar produtos na lista de compras 
+- Pesquisar produtos 
+- Ver as notificações do site 
+- Ver todas as comprar que ja fez 
+- Filtrar por categorias 
+- Clicar no template da promoção 
+- Add localização 
+- Exibir mais opções na parte de perfil
+- Realizar pagamento 
+
+Não funcionais
+
+- Cores aderentes ao logo do site
+- Padronização dos anuncios
+
+
+Requisitos do sistema 
+
+- O sistema deve permitir que o usuário possa adicionar seus dados pessoais para cadastro
+- Os templates e os anúncios devem conter uma padronização de estilo e cores do site
+
+Requisitos do cliente 
+ 
+- Como cliente quero que os produtos sejam adicionados em uma lista de comprar, para melhor organização e visualização dos produtos.
+- Como cliente quero que os anúncios tenham uma padronização de cores e fontes para que o site fique com uma cara mais harmônica e com um visual elegante.
+
